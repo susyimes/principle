@@ -1,6 +1,6 @@
 # principle
-##3.15.2020 
 **coding &amp; thinking**  
+##3.15.2020  
 ## https://autonomy.design/Part1/InformationHiding/
 通过信息隐藏，我们把代码分为“可以随便写的”和“不可以随便写的”两部分。从而控制代码腐化的蔓延。  
 ## https://zhuanlan.zhihu.com/p/475789952
